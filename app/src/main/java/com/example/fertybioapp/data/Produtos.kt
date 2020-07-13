@@ -4,7 +4,7 @@ data class Produtos(
     var id:Long = 0,
     var name: String = "",
     var modelo: String = "",
-    var size: Float = 0.0F,
+    var size: String = "",
     var produto: Int
 
 ) {
