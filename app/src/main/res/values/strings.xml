@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FertyBioApp</string>
+    <array name="logos">
+        <item>@drawable/produto1</item>
+        <item>@drawable/produto2</item>
+        <item>@drawable/produto3</item>
+        <item>@drawable/produto5</item>
+        <item>@drawable/produto6</item>
+        <item>@drawable/produto7</item>
+        <item>@drawable/produto8</item>
+        <item>@drawable/produto9</item>
+        <item>@drawable/produto10</item>
+        <item>@drawable/produto11</item>
+        <item>@drawable/produto12</item>
+        <item>@drawable/produto13</item>
+        <item>@drawable/produto14</item>
+        <item>@drawable/produto15</item>
+        <item>@drawable/produto16</item>
+        <item>@drawable/produto17</item>
+        <item>@drawable/produto18</item>
+        <item>@drawable/produto20</item>
+        <item>@drawable/produto21</item>
+        <item>@drawable/produto22</item>
+        <item>@drawable/produto23</item>
+        <item>@drawable/produto24</item>
+        <item>@drawable/produto25</item>
+        <item>@drawable/produto26</item>
+        <item>@drawable/produto27</item>
+        <item>@drawable/produto28</item>
+        <item>@drawable/produto29</item>
+        <item>@drawable/produto30</item>
+        <item>@drawable/produto31</item>
+        <item>@drawable/produto32</item>
+        <item>@drawable/produto33</item>
+    </array>
+</resources>
